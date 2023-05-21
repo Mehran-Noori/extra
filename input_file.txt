@@ -1,0 +1,5 @@
+int a = 0 ;
+int 6 = 2 ;
+int c = 0 ;
+int o = 0 ;
+a = b + c ;

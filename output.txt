@@ -1,0 +1,12 @@
+['line(1)', [['Keyword', 'int'], ['Identifiers', 'a'], ['Equal', '='], ['Numeral', '0'], ['Semicolon', ';']]]
+['line(2)', [['Keyword', 'int'], ['Numeral', '6'], ['Equal', '='], ['Numeral', '2'], ['Semicolon', ';']]]
+['line(3)', [['Keyword', 'int'], ['Identifiers', 'c'], ['Equal', '='], ['Numeral', '0'], ['Semicolon', ';']]]
+['line(4)', [['Keyword', 'int'], ['Identifiers', 'o'], ['Equal', '='], ['Numeral', '0'], ['Semicolon', ';']]]
+['line(5)', [['Identifiers', 'a'], ['Equal', '='], ['Identifiers', 'b'], ['Addition', '+'], ['Identifiers', 'c'], ['Semicolon', ';']]]
+
+
+
+
+\\\\\\\\\\\\\\\\\Data///////////////////////////////////
+
+Keywords_count = 4 -- Operators_count = 6 -- Numerals_count = 5 -- Special_Characters_count = 5 -- Identifiers_count = 6 -- Unknown_count = 0 -- 
